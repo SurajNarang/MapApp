@@ -51,12 +51,7 @@ class ViewController: UIViewController {
         mapItem.name = "Nearest Gas Station"
         mapItem.openInMaps(launchOptions: options)
 
-
-
     }
-
-        
-    
 
     func configureLocationServices(){
         manager.delegate = self
