@@ -4,15 +4,13 @@
 //
 //  Created by Suraj Narang on 1/12/20.
 //  Copyright © 2020 Suraj Narang. All rights reserved.
-//
+// help
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-    
-    // Hello
-
+ 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
