@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6FF3006423CC29F000CF1BB4"
                BuildableName = "Quik Gas.app"
-               BlueprintName = "MapApp"
-               ReferencedContainer = "container:MapApp.xcodeproj">
+               BlueprintName = "Quick-Gas"
+               ReferencedContainer = "container:Quick-Gas.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6FF3006423CC29F000CF1BB4"
             BuildableName = "Quik Gas.app"
-            BlueprintName = "MapApp"
-            ReferencedContainer = "container:MapApp.xcodeproj">
+            BlueprintName = "Quick-Gas"
+            ReferencedContainer = "container:Quick-Gas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6FF3006423CC29F000CF1BB4"
             BuildableName = "Quik Gas.app"
-            BlueprintName = "MapApp"
-            ReferencedContainer = "container:MapApp.xcodeproj">
+            BlueprintName = "Quick-Gas"
+            ReferencedContainer = "container:Quick-Gas.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

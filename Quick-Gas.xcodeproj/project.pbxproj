@@ -85,9 +85,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6FF3006423CC29F000CF1BB4 /* MapApp */ = {
+		6FF3006423CC29F000CF1BB4 /* Quick-Gas */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6FF3007923CC29F300CF1BB4 /* Build configuration list for PBXNativeTarget "MapApp" */;
+			buildConfigurationList = 6FF3007923CC29F300CF1BB4 /* Build configuration list for PBXNativeTarget "Quick-Gas" */;
 			buildPhases = (
 				6FF3006123CC29F000CF1BB4 /* Sources */,
 				6FF3006223CC29F000CF1BB4 /* Frameworks */,
@@ -97,7 +97,7 @@
 			);
 			dependencies = (
 			);
-			name = MapApp;
+			name = "Quick-Gas";
 			productName = MapApp;
 			productReference = 6FF3006523CC29F000CF1BB4 /* Quik Gas.app */;
 			productType = "com.apple.product-type.application";
@@ -117,7 +117,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 6FF3006023CC29F000CF1BB4 /* Build configuration list for PBXProject "MapApp" */;
+			buildConfigurationList = 6FF3006023CC29F000CF1BB4 /* Build configuration list for PBXProject "Quick-Gas" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -130,7 +130,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6FF3006423CC29F000CF1BB4 /* MapApp */,
+				6FF3006423CC29F000CF1BB4 /* Quick-Gas */,
 			);
 		};
 /* End PBXProject section */
@@ -335,7 +335,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6FF3006023CC29F000CF1BB4 /* Build configuration list for PBXProject "MapApp" */ = {
+		6FF3006023CC29F000CF1BB4 /* Build configuration list for PBXProject "Quick-Gas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6FF3007723CC29F300CF1BB4 /* Debug */,
@@ -344,7 +344,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6FF3007923CC29F300CF1BB4 /* Build configuration list for PBXNativeTarget "MapApp" */ = {
+		6FF3007923CC29F300CF1BB4 /* Build configuration list for PBXNativeTarget "Quick-Gas" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6FF3007A23CC29F300CF1BB4 /* Debug */,
